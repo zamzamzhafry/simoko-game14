@@ -1,0 +1,10 @@
+1.Komponen No. 1 adalah Tangki Bahan Bakar;
+1;|
+2.Komponen No. 2 Sensor Aliran Udara;
+2;|
+3.Komponen No. 3 adalah Sensor Throttle;
+2;|
+4.Komponen No. 4 adalah Sensor Throttle;
+1;|
+5.Komponen No. 5 adalah Pressure Regulator;
+1;|

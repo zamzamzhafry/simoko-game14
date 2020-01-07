@@ -1,0 +1,26 @@
+1.DELIVERY PIPE & PULSATION DUMPER.
+Pulsation dumper dipasangkan pada pipa delivery berfungsi untuk memberikan tekanan
+bahan-bahan selama injektor bekerja ;2;|
+2.ECT (Engine Coolant Temperature) dihubungkan seri dengan tahanan dan diberi
+tegangan 5V. Bila tahanan pada ECT berubah (karena temperatur) maka tegangan
+yang ke ECU juga berubah. Tegangan kerja 4,5 s/d 0,2 Volt. Dari dingin ke panas ;1;|
+3.Pressure regulator diperlukan karena untuk menanggulangi kekurangan tekanan yang
+diakibatkan pompa bensin yang terus bekerja ;2;|
+4.Injektor yang bermasalah akan menyebabkan mesin mobil menjadi pincang,
+kurang tenaga, kurang responsif, dan pastinya boros bahan bakar, bahkan
+mesin susah hidup ;1;|
+5.MAF sensor jika mengalami kerusakan akan berakibat tekanan bahan bakar
+menjadi lambat ;2;|
+6.Pada fuel filter juga terdapat water sedimenter yang berfungsi memisahkan
+air kalau ada air yang terbawa aliran bensin ;1;|
+7.Fuel Pump berfungsi untuk mengalirkan bensin dari tanki ke injektor.
+Menjaga tekanan bahan bakar di delivery valve stabil ;2;|
+8.Sebenarnya selang ini hampir sama seperti fuel feed, namun return feed
+berfungsi untuk mengalirkan bensin sisa saat kelebihan tekanan kembali
+menuju tanki. Saluran ini memanjang dari delivery pipe ke tank ;1;|
+9.ECU berfungsi untuk mengolah data-data yang diperoleh dari sensor.
+Data dari 5 sensor tadi akan dikirimkan ke dalam ECU, lalu ECU akan
+melakukan processing ;1;|
+10.Fungsi baterai pada sistem EFI adalah sebagai pemberi tegangan referensi
+(umumnya 12 volt) yang nantinya akan diolah oleh sensor sehingga memberikan
+tegangan balik ke ECU dengan nilai tegangan antara 0 hingga 5 Volt ;2;|
